@@ -11,7 +11,7 @@
  *
  *
  **/
-int day_of_the_year(int day, int month, int year)
+int my_empty_function(int day, int month, int year)
 {
 
     return 0;
