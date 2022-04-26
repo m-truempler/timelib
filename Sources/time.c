@@ -1,3 +1,8 @@
+#include <stdio.h>
+#include <time.h>
+#include <stdlib.h>
+#include <string.h>
+
 int day_of_the_year(int day, int month, int year){
 
     int result = 0;
